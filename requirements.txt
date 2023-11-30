@@ -1,0 +1,5 @@
+aiokafka==0.8.1
+async-timeout==4.0.3
+confluent-kafka==2.3.0
+kafka-python==2.0.2
+packaging==23.2
